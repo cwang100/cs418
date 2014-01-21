@@ -1,0 +1,1 @@
+This project was created using Visual Studio 2012 and openGL.
